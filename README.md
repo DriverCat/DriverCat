@@ -2,4 +2,4 @@
 
 ## 📊 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/drivercat)](https://leetcode.com/drivercat?theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/drivercat?theme=dark)](https://leetcode.com/drivercat)
