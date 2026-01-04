@@ -2,4 +2,4 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Progress](https://leetcode-progress.vercel.app/api?username=drivercat)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/drivercat)](https://leetcode.com/drivercat)
