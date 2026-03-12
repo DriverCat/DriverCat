@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with over a decade of experience shaping digital products and engineering culture. My journey started in 2010 as a full-stack developer, and over the years, I've grown into a backend team lead — blending hands-on technical expertise with a passion for building great teams.
+I'm a software engineer with over a decade of experience shaping digital products and engineering culture. My journey started in 2010 as a full-stack developer, and over the years, I've grown into a team lead — blending hands-on technical expertise with a passion for building great teams.
 
 ### 🔍 What I Do
 
